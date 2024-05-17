@@ -1,1 +1,2 @@
 # data-collection-challenge-module-11
+Xpert learning assistant helped with some code at the start of part 1 in order to get BeautifulSoup defined by adding 'from bs4 import BeautifulSoup' and then creating a beautifulsoup object mars_soup = BeautifulSoup(html, "html.parser") that was defined. Xpert learning assistant also helped with plotting the data of minimum temperatures and number of terrestrial days on mars and was encountering an error that resolved importing numby as np.
